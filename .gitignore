@@ -1,0 +1,28 @@
+# Ingurune birtuala
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Datu-baseak
+*.db
+*.sqlite
+*.sqlite3
+
+# Sekretuak
+.env
+.env.*
+!.env.example
+!exercises/e5/.env.insecure
+
+# Editoreak
+.vscode/
+.idea/
+.DS_Store
