@@ -118,8 +118,8 @@ Idatzi `AGENTS.md` arau hauekin (edo osatu lehendik dagoena):
 Berrezarri brancha:
 
 ```bash
-git restore .
-git switch -C agent-bug origin/agent-bug
+git reset --hard HEAD
+git clean -fd   # untracked fitxategiak ezabatzen ditu; ziurtatu ezer gorde gabe
 ```
 
 Errepikatu 2. urratsa, orain `AGENTS.md`-rekin. Bete taula:
