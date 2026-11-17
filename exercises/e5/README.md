@@ -1,5 +1,7 @@
 # E5 — Sekretuak, pribatutasuna eta prompt injection
 
+**Ikasle-fitxa:** [FITXA.md](FITXA.md)
+
 Karpeta honetako materiala **irakaskuntza-fixturea** da: sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da produkziorako.
 
 ## Nola prestatu ariketa

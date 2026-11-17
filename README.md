@@ -100,9 +100,11 @@ python seed.py          # datuak txertatu (lehendik badaude, ez du ezer egiten)
 python seed.py --reset  # datu-basea ezabatu eta berriz sortu
 ```
 
-## Irakaskuntza-fixtureak
+## Irakaskuntza-materialak
 
-`exercises/e5/` karpetan **helburu didaktikoko material ez-segurua** dago: sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da inoiz produkzioan erabili behar, eta ez da `app/` kodean sartzen.
+- `exercises/README.md`: ikasle-fitxen indizea (E1–E9).
+- `exercises/AA_ERREGISTROA.md`: prompten erregistroa eta amaierako deklarazioa.
+- `exercises/e5/`: **helburu didaktikoko material ez-segurua** — sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da inoiz produkzioan erabili behar, eta ez da `app/` kodean sartzen.
 
 ## Oharrak
 
