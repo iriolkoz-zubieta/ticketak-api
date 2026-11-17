@@ -8,7 +8,7 @@
 
 | Elementua | Balioa |
 |---|---|
-| Brancha | `pr-ai` (`f42a9e9`) |
+| Brancha | `pr-ai` |
 | Iraupena | 45 min |
 | Ikasle-fitxa | `exercises/e4/FITXA.md` |
 | Helburua | Kodea berrikustea, ez soilik probak pasatzea |
@@ -153,7 +153,7 @@ def test_search_tickets(client):
 
 | Elementua | Balioa |
 |---|---|
-| Brancha | `agent-bug` (`2f4062d`) |
+| Brancha | `agent-bug` |
 | Iraupena | 85 min (A: 30, B: 55) |
 | Ikasle-fitxa | `exercises/e6/FITXA.md` |
 | Helburua | Agentea gainbegiratzea, `AGENTS.md` bidez mugak ezartzea |
