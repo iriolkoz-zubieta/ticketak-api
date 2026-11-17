@@ -15,6 +15,8 @@ AAk sortutako kodea **kritikoki** berrikustea. Kodea funtzionatzeak ez du esan n
 
 Irakasleak `pr-ai` branch bat emango dizu. Branch horretan AAk sortutako PR bat dago, baina **6 arazo** ditu. Zure lana da review-a egitea, iruzkinak idaztea eta konponketa bat aplikatzea.
 
+> **Ez instalatu PR honetako dependendentziarik.** Lehenengo review-a egin; gero erabaki. PR batek menpekotasun arriskutsua ekar dezake.
+
 ## 1. urratsa — Brancha eta diff-a
 
 ```bash
