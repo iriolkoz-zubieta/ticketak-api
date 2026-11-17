@@ -106,6 +106,22 @@ python seed.py --reset  # datu-basea ezabatu eta berriz sortu
 - `exercises/AA_ERREGISTROA.md`: prompten erregistroa eta amaierako deklarazioa.
 - `exercises/e5/`: **helburu didaktikoko material ez-segurua** — sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da inoiz produkzioan erabili behar, eta ez da `app/` kodean sartzen.
 
+## Irakaskuntza-branchak
+
+| Brancha | Erabilera |
+|---|---|
+| `main` | Baseline garbia |
+| `pr-ai` | E4: AAk sortutako PR-a, 6 arazoekin |
+| `agent-bug` | E6b: `GET /tickets?status=` bug-a eta `AGENTS.md` minimoa |
+
+```bash
+git switch pr-ai      # E4
+git switch agent-bug  # E6b
+git switch main       # baseline
+```
+
+Ez egin merge branch hauetatik `main`-era; ariketa-materiala da.
+
 ## Oharrak
 
 - Baseline-an **ez dago etiketarik**; E9 ariketan gehitzen dira.
