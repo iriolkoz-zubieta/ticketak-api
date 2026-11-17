@@ -14,7 +14,7 @@ Fitxa hauek `ticketak-api` starter repoarekin erabiltzeko dira. Bakoitza indepen
 | Saioa | Fitxa | Gaia | Denbora |
 |---|---|---|---|
 | 1 | [E1](e1/FITXA.md) | Prompt laborategia | 60 min |
-| 2 | [E2](e2/FITXA.md) | Alucinazio-detektibea | 30 min |
+| 2 | [E2](e2/FITXA.md) | Aluzinazio-detektibea | 30 min |
 | 2 | [E2b](e2b/FITXA.md) | OpenCode-rekin lehen kontaktua | 35 min |
 | 3 | [E3](e3/FITXA.md) | TDD AA-rekin | 60 min |
 | 4 | [E4](e4/FITXA.md) | AAk sortutako PR baten review-a | 45 min |

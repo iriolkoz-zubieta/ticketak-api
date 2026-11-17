@@ -1,7 +1,7 @@
-# E2 — Alucinazio-detektibea
+# E2 — Aluzinazio-detektibea
 
 **Saioa:** 2 · **Iraupena:** 30 min · **Modua:** bikoteka  
-**Entregagarria:** alucinazio-txostena (`prompt_liburua.md` barruan)
+**Entregagarria:** aluzinazio-txostena (`prompt_liburua.md` barruan)
 
 **Izena:** ______________________________  **Taldea:** ______________  **Data:** __________
 
@@ -58,11 +58,11 @@ Bete taula:
 
 ## 5. urratsa — Bikoteka trukatu
 
-Bikotekideak beste alucinazio bat bilatuko du. Zuk harena egiaztatuko duzu. Ez konfiantza erantzunean; konfiantza iturrian.
+Bikotekideak beste aluzinazio bat bilatuko du. Zuk harena egiaztatuko duzu. Ez konfiantza erantzunean; konfiantza iturrian.
 
 ## Onarpen-checklista
 
-- [ ] Gutxienez alucinazio bat dokumentatuta.
+- [ ] Gutxienez aluzinazio bat dokumentatuta.
 - [ ] Iturri ofizialaren erreferentzia jarrita.
 - [ ] Egiaztapen-metodoa azalduta.
 - [ ] Ondorioa idatzita: nola detektatuko duzun hurrengoan.
