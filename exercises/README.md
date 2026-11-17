@@ -31,6 +31,15 @@ Fitxa hauek `ticketak-api` starter repoarekin erabiltzeko dira. Bakoitza indepen
 - `AGENTS.md` eta `README.md` irakurrita.
 - `AA_ERREGISTROA.md` betetzeko.
 
+## Saio aurretik — sandboxa
+
+- [ ] Container, VM edo Windows Sandbox batean nabil.
+- [ ] Repo bakarra dago mountatuta; ez nire home osoa.
+- [ ] Ez dago sekretu errealik, SSH gakorik edo tokenik.
+- [ ] Sarea behar den gutxienekoa da.
+- [ ] `git status` eta `git diff` egiaztatzen ditut.
+- [ ] Reset egiteko modua dut.
+
 ## Arau nagusiak
 
 - **Egiaztatu, ez fidatu:** probek, dokumentazioak eta irakurketak berresten dute.

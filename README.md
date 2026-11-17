@@ -105,6 +105,7 @@ python seed.py --reset  # datu-basea ezabatu eta berriz sortu
 - `exercises/README.md`: ikasle-fitxen indizea (E1–E9).
 - `exercises/AA_ERREGISTROA.md`: prompten erregistroa eta amaierako deklarazioa.
 - `irakasle/E4_E6_GIDA.md`: E4 eta E6rako irakasle-gida (erantzunak barne).
+- `irakasle/SANDBOX_GIDA.md`: OpenCode sandboxean exekutatzeko gida eta ikasleentzako azalpena.
 - `exercises/e5/`: **helburu didaktikoko material ez-segurua** — sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da inoiz produkzioan erabili behar, eta ez da `app/` kodean sartzen.
 
 ## Irakaskuntza-branchak
