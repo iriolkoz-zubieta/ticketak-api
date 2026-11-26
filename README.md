@@ -2,7 +2,7 @@
 
 Laguntza-txartelen kudeaketarako API didaktikoa: **FastAPI + SQLite + pytest**.
 
-Proiektu hau DAW 2. mailako AA tailerrerako starter repo-a da. Baseline-ak ticketen CRUD-a, egoera-aldaketak eta iragazketak lantzen ditu; **etiketak (tags) ez daude**, azken erronkan (E9) gehituko dira.
+Proiektu hau DAW 2. mailako AA tailerrerako starter repo-a da. Baseline-ak ticketen CRUD-a, egoera-aldaketak eta iragazketak lantzen ditu. **Etiketak (tags) ez daude** baseline honetan.
 
 ## Azkar hasteko
 
@@ -79,7 +79,10 @@ ticketak-api/
 │   ├── test_tickets.py
 │   └── test_services.py
 ├── exercises/
-│   └── e5/            # segurtasun-ariketako fixtureak
+│   ├── README.md      # fitxen indizea
+│   ├── e2/            # aluzinazio-detektibea
+│   ├── e4/            # AAk sortutako PR baten review-a
+│   └── e6/            # agenteen anatomia eta kontrola
 ├── seed.py
 ├── AGENTS.md
 └── pyproject.toml
@@ -102,11 +105,9 @@ python seed.py --reset  # datu-basea ezabatu eta berriz sortu
 
 ## Irakaskuntza-materialak
 
-- `exercises/README.md`: ikasle-fitxen indizea (E1–E9).
-- `exercises/AA_ERREGISTROA.md`: prompten erregistroa eta amaierako deklarazioa.
+- `exercises/README.md`: ikasle-fitxen indizea (E2, E4, E6).
 - `irakasle/E4_E6_GIDA.md`: E4 eta E6rako irakasle-gida (erantzunak barne).
 - `irakasle/SANDBOX_GIDA.md`: OpenCode sandboxean exekutatzeko gida eta ikasleentzako azalpena.
-- `exercises/e5/`: **helburu didaktikoko material ez-segurua** — sekretu faltsuak, datu pertsonal faltsuak eta prompt injection baten adibidea. Ez da inoiz produkzioan erabili behar, eta ez da `app/` kodean sartzen.
 
 ## Irakaskuntza-branchak
 
@@ -126,6 +127,6 @@ Ez egin merge branch hauetatik `main`-era; ariketa-materiala da.
 
 ## Oharrak
 
-- Baseline-an **ez dago etiketarik**; E9 ariketan gehitzen dira.
+- Baseline-an **ez dago etiketarik**.
 - Datu guztiak sintetikoak dira. Ez erabili bezero errealen daturik.
 - `AGENTS.md` fitxategiak agentearentzako arauak ditu.
