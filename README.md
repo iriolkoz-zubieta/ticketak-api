@@ -78,11 +78,6 @@ ticketak-api/
 │   ├── conftest.py
 │   ├── test_tickets.py
 │   └── test_services.py
-├── exercises/
-│   ├── README.md      # fitxen indizea
-│   ├── e2/            # aluzinazio-detektibea
-│   ├── e4/            # AAk sortutako PR baten review-a
-│   └── e6/            # agenteen anatomia eta kontrola
 ├── seed.py
 ├── AGENTS.md
 └── pyproject.toml
@@ -102,28 +97,6 @@ Proba bakoitzak SQLite memoria-barneko datu-basea erabiltzen du; ez du `tickets.
 python seed.py          # datuak txertatu (lehendik badaude, ez du ezer egiten)
 python seed.py --reset  # datu-basea ezabatu eta berriz sortu
 ```
-
-## Irakaskuntza-materialak
-
-- `exercises/README.md`: ikasle-fitxen indizea (E2, E4, E6).
-- `irakasle/E4_E6_GIDA.md`: E4 eta E6rako irakasle-gida (erantzunak barne).
-- `irakasle/SANDBOX_GIDA.md`: OpenCode sandboxean exekutatzeko gida eta ikasleentzako azalpena.
-
-## Irakaskuntza-branchak
-
-| Brancha | Erabilera |
-|---|---|
-| `main` | Baseline garbia |
-| `pr-ai` | E4: AAk sortutako PR-a, 6 arazoekin |
-| `agent-bug` | E6b: `GET /tickets?status=` bug-a eta `AGENTS.md` minimoa |
-
-```bash
-git switch pr-ai      # E4
-git switch agent-bug  # E6b
-git switch main       # baseline
-```
-
-Ez egin merge branch hauetatik `main`-era; ariketa-materiala da.
 
 ## Oharrak
 
